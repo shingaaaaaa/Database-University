@@ -9,4 +9,5 @@ ER-диаграмма
 
 Реляционная схема
 
-<img width="6480" height="5143" alt="вв" src="https://github.com/user-attachments/assets/90157b19-3b2e-41c3-b52d-04aa3a88a441" />
+<img width="6364" height="5143" alt="реляционная_схема" src="https://github.com/user-attachments/assets/983e718c-426b-45c2-80a5-3cbb0af805b3" />
+
